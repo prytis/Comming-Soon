@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+    body > header{
+        position: relative;
+        top: 5px;
+        height: 44%;  
+    }
+        body > header > img {
+            position: relative;
+        
+        }
+        body > header > h1 {
+            position: relative;
+            top: 90px;
+            left: 465px;
+            font-size: 22px;
+            color: black;
+        }
+        body > header > p {
+            position: relative;
+            top: 130px;
+            left: 415px;
+            font-size: 8px;
+        }
+        body > main{
+            position: relative;
+            width: 100%;
+            height: 302px;
+            background-color: white;
+    }
+        body > footer{
+            position: relative;
+            width: 100%;
+            height: 171px;
+            background-color: yellow;
+        }
