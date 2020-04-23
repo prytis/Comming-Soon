@@ -10,7 +10,7 @@
 
 .hero row {
     width: 600px;
-    margin:  0 calc( 50% - 300 );
+    margin:  0 calc(50% - 300);
 }
 
 .hero img {
