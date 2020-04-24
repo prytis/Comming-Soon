@@ -1,0 +1,39 @@
+footer.container {
+    background-color: #03a9f3;
+    text-align: center;
+}
+
+    footer.container .row > .social {
+        width: 100%;
+        color: #fff;
+        padding: 30px;
+        border-bottom: 4px solid #fff;
+    }
+
+    footer.container .row > img {
+        padding: 30px 0;
+    }
+
+    footer.container .row .texts {
+        color: #5bc7f5;
+        width: 80%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    footer.container .row .texts > p {
+        width: calc(30% -10px);
+        padding: 0 20px;
+    }
+    footer.container .row p:nth-child(2) {
+        width: calc(30% -10px);
+        border-left: 2px solid #5bc7f5;
+        border-right: 2px solid #5bc7f5;
+        padding: 0 20px;
+    }
+
+        footer.container .row .texts > p > a {
+            color: #c4eafa;
+            padding: 0 5px;
+            text-decoration: none;
+        }
