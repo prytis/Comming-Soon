@@ -29,3 +29,20 @@ h2 {
     color: red;
     text-decoration: none;
     }
+
+    .hero .clock {
+        width: 100%;
+        color: #fff;
+    }
+
+        .hero .clock .tablo {
+            width: 18%;
+        }
+            .hero .clock .tablo .value {
+                width: 100%;
+                font-size: 70px;
+            }
+            .hero .clock .tablo .label {
+                width: 100%;
+                font-size: 28px;
+            }
