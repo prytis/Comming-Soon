@@ -31,19 +31,20 @@ h2 {
     text-decoration: none;
     }
 
-    .hero .clock {
-        width: 100%;
-        color: #fff;
-    }
-
-        .hero .clock .tablo {
-            width: 18%;
-        }
-            .hero .clock .tablo .value {
-                width: 100%;
-                font-size: 70px;
-            }
-            .hero .clock .tablo .label {
-                width: 100%;
-                font-size: 28px;
-            }
+.hero .formatas {
+    width: 90%;
+    margin: 0 5% 20px;
+    background-color: red;
+}
+.hero .formatas > input {
+    background-color: transparent;
+    color: #fff;
+    border-bottom-color: #fff;
+    outline: none
+}
+.hero .formatas > input::placeholder {
+    color: #fff;
+    
+    .hero .mouse {
+    
+    }  
