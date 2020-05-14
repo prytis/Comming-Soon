@@ -28,7 +28,7 @@
         .progress-barr > .progress > .bar > .loading {
             width: 0%;
             height: 100%;
-            animation-direction: ;
+            /* animation-direction: ; */
             background-color: #03A9F5;
             animation: loading 2s linear 1s infinite normal forwards;
         }
